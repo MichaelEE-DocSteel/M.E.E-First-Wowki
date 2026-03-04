@@ -17,4 +17,4 @@ No lights should be on originally, but if the first and thrid inputs are on, the
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
