@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+If the IN0 and IN3 are ON, then an output is made to be on.
 
 ## How to test
 
-Explain how to use your project
+No lights should be on originally, but if the first and thrid inputs are on, then a light turns on.
 
 ## External hardware
 
